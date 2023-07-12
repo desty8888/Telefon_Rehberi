@@ -1,4 +1,4 @@
-telefon_numarası = {"BOT1":"05393745099", "BOT2":"05324813323", "BOT3":"05056290314", "BOT4":"05055943633", "BOT5":"05255253633"}
+telefon_numarası = {"BOT1":"05393742399", "BOT2":"05324813223", "BOT3":"05056290014", "BOT4":"05055941233", "BOT5":"05255251233"}
 question = input("Kişiyi Arayın.")
 question = question.upper()
 if question in telefon_numarası.keys():
